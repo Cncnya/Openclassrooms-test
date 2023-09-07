@@ -10,6 +10,6 @@ je réaliserai une analyse à partir des données sur excel. Création des graph
 
 
 ## Comptétences :
-Générer des graphiques adaptés aux types de données
-Synthétiser des résultats à destination d'un client
-Interpréter les informations provenant d'un dashboard
+- Générer des graphiques adaptés aux types de données
+- Synthétiser des résultats à destination d'un client
+- Interpréter les informations provenant d'un dashboard

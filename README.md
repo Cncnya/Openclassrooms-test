@@ -2,11 +2,11 @@
 
 En tant que Data Analyst pour l'entreprise le e-commerce le Grand Marché, je vais aider pour le rapport mensuel et analyser les données des clients affilier.
 
-## Pour le rapport mensuel
-il s'agit de sélectionner et analyser les graphiques les plus pertinents pour la présentation à la direction.
+## Pour le rapport mensuel :
+Il s'agit de sélectionner et analyser les graphiques les plus pertinents pour la présentation à la direction.
 
 ## Pour les clients affiliés : 
-je réaliserai une analyse à partir des données sur excel. Création des graphiques pertinents et un tcd pour mettre en valeur les données.
+Je réaliserai une analyse à partir des données sur excel. Création des graphiques pertinents et un tcd pour mettre en valeur les données.
 
 
 ## Comptétences :
